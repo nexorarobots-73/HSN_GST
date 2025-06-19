@@ -1,0 +1,2 @@
+build/HSN_Tax_Calculator/HSN_Tax_Calculator.pkg filter=lfs diff=lfs merge=lfs -text
+build/HSN_Tax_Calculator/HSN_Tax_Calculator.exe filter=lfs diff=lfs merge=lfs -text
